@@ -1,0 +1,35 @@
+.hero {
+  background-image: url(../../img/element.png);
+  background-repeat: no-repeat;
+  background-position: calc(50% - 800px) calc(50% - 200px);
+}
+.hero__inner {
+  padding-top: 84px;
+  display: flex;
+}
+
+.hero__big-shrift {
+  margin-bottom: 25px;
+  width: 426px;
+  margin-top: 110px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #000000;
+  mix-blend-mode: normal;
+}
+
+.hero__text {
+  margin-bottom: 45px;
+  width: 445px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  color: #7D7987;
+  mix-blend-mode: normal;
+}
+

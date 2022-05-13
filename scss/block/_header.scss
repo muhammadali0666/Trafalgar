@@ -1,0 +1,50 @@
+.header__inner {
+  margin-top: 135px;
+  display: flex;
+}
+
+.header__logo {
+  width: 161px;
+  height: 41px;
+}
+
+.header__nav {
+  display: flex;
+}
+
+.header__list {
+  display: flex;
+  list-style-type: none;
+}
+
+.header__item {
+  margin-right: 40px;
+}
+
+.header__item-link {
+  justify-content: space-between;
+  text-decoration: none;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #1F1534;
+  opacity: 0.5;
+}
+.header__item-link:last-child {
+  margin-right: 0;
+}
+
+.header__item-link-start {
+  width: 261px;
+  margin-left: 412px;
+  margin-right: 40px;
+  text-decoration: none;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #1F1534;
+}
